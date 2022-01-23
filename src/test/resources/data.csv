@@ -1,0 +1,4 @@
+"registred, under limit",100060,true,30
+"registred, over limit",100000060,true,500
+"not registred, over limit",100000060,false,500
+"not registred, under limit",1000_60,false,10
